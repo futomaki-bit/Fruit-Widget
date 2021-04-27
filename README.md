@@ -26,5 +26,5 @@ This rainmeter pack is in development
 - Album Art does not have rounded corners
 
 **Weather:**
-- No background change
+- Background changes (Day/Night) with device time and not location time
 - No weather icons
