@@ -4,12 +4,25 @@
 
 **Download Rainmeter : https://www.rainmeter.net/**
 
-This project is currently in development
+This rainmeter pack is in development
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
-**Note:**
-- Calendar cannot display events
-- Music widget uses iTunes
-- Music Album Art does not have rounded corners
+**Thanks to:**
+- **@xxenium** for the Weather skin
+- **@Mordasius** for the Stocks skin
+- **Rainmeter**
+
+## Notes ##
 - Font is Segoe UI and not the fruit font
+
+**Calendar:**
+- Cannot display events
+
+**Music:**
+- Uses iTunes
+- Album Art does not have rounded corners
+
+**Weather:**
+- No background change
+- No weather icons
