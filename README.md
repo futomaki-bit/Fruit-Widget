@@ -8,12 +8,12 @@ This project is currently in development
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
-Thanks to:
-- @xxenium for the Weather skin
-- @Mordasius for the Stocks skin
-- Rainmeter
+**Thanks to:**
+- **@xxenium** for the Weather skin
+- **@Mordasius** for the Stocks skin
+- **Rainmeter**
 
-**Notes:**
+## Notes ##
 - Font is Segoe UI and not the fruit font
 
 **Calendar:**
