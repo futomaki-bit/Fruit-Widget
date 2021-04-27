@@ -17,11 +17,12 @@ This rainmeter pack is in development
 - Font is Segoe UI and not the fruit font
 
 **Calendar:**
-- Calendar cannot display events
+- Cannot display events
 
 **Music:**
-- Music widget uses iTunes
-- Music Album Art does not have rounded corners
+- Uses iTunes
+- Album Art does not have rounded corners
 
 **Weather:**
-- Weather does not change background
+- No background change
+- No weather icons
