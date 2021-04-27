@@ -4,7 +4,7 @@
 
 **Download Rainmeter : https://www.rainmeter.net/**
 
-This project is currently in development
+This rainmeter pack is in development
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
