@@ -6,7 +6,7 @@
 
 **[Download Fruit-Widget](https://github.com/futomakiyoin/Fruit-Widget/releases/download/0.1/Fruit.Widget_0.1.rmskin)**
 
-This rainmeter pack is in development
+This rainmeter pack is not complete
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
@@ -16,6 +16,7 @@ This rainmeter pack is in development
 - **Rainmeter**
 
 ## Notes ##
+- Release is currently outdated
 - Font is Segoe UI and not the fruit font
 
 **Calendar:**
@@ -23,7 +24,6 @@ This rainmeter pack is in development
 
 **Music:**
 - Uses iTunes
-- Album Art does not have rounded corners
 
 **Weather:**
 - Background changes (Day/Night) with device time and not location time
