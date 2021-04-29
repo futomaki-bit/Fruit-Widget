@@ -28,4 +28,4 @@ This rainmeter pack is not complete.
 - Background changes (Day/Night) with device time and not location time
 - No weather icons
 
-*This project is to learn about creating rainmeter skins.*
+*This project for me is to learn about creating rainmeter skins.*
