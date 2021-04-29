@@ -22,6 +22,7 @@ This rainmeter pack is not complete
 
 **Music:**
 - Uses iTunes
+- Only square artworks looks right
 
 **Weather:**
 - Background changes (Day/Night) with device time and not location time
