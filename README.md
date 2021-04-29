@@ -22,6 +22,7 @@ This rainmeter pack is not complete.
 
 **Music:**
 - Uses iTunes
+- Has fullart and standard variant
 - Only square artworks looks right
 
 **Weather:**
