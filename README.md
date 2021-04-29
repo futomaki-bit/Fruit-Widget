@@ -4,16 +4,14 @@
 
 **[Download Rainmeter](https://www.rainmeter.net/)**
 
-**[Download Fruit-Widget](https://github.com/futomakiyoin/Fruit-Widget/releases/download/0.1/Fruit.Widget_0.1.rmskin)**
-
-This rainmeter pack is not complete
+This rainmeter pack is not complete.
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
 **Thanks to:**
 - **@xxenium** for the Weather skin
 - **@Mordasius** for the Stocks skin
-- **Rainmeter**
+- **Rainmeter** and its documentation
 
 ## Notes ##
 - Release is currently outdated
@@ -24,7 +22,10 @@ This rainmeter pack is not complete
 
 **Music:**
 - Uses iTunes
+- Only square artworks looks right
 
 **Weather:**
 - Background changes (Day/Night) with device time and not location time
 - No weather icons
+
+*This project for me is to learn about creating rainmeter skins.*
