@@ -6,8 +6,6 @@
 
 This rainmeter pack is not complete.
 
-*This project is to learn about creating rainmeter skins.*
-
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
 **Thanks to:**
@@ -29,3 +27,5 @@ This rainmeter pack is not complete.
 **Weather:**
 - Background changes (Day/Night) with device time and not location time
 - No weather icons
+
+*This project is to learn about creating rainmeter skins.*
