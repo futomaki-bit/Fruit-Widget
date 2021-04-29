@@ -4,8 +4,6 @@
 
 **[Download Rainmeter](https://www.rainmeter.net/)**
 
-**[Download Fruit-Widget](https://github.com/futomakiyoin/Fruit-Widget/releases/download/0.1/Fruit.Widget_0.1.rmskin)**
-
 This rainmeter pack is not complete
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
@@ -13,7 +11,7 @@ This rainmeter pack is not complete
 **Thanks to:**
 - **@xxenium** for the Weather skin
 - **@Mordasius** for the Stocks skin
-- **Rainmeter**
+- **Rainmeter** and its documentation
 
 ## Notes ##
 - Release is currently outdated
