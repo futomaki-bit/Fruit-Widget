@@ -4,7 +4,9 @@
 
 **[Download Rainmeter](https://www.rainmeter.net/)**
 
-This rainmeter pack is not complete
+This rainmeter pack is not complete.
+
+*This project is to learn about creating rainmeter skins.*
 
 ![](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
 
