@@ -23,10 +23,9 @@ This rainmeter pack is not complete.
 **Music:**
 - Uses iTunes
 - Has fullart and standard variant
-- Only square artworks looks right
 
 **Weather:**
 - Background changes (Day/Night) with device time and not location time
 - No weather icons
 
-*This project for me is to learn about creating rainmeter skins.*
+*This project for me is to learn about building rainmeter skins.*
