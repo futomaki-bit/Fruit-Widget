@@ -34,4 +34,4 @@ This rainmeter pack is not complete.
 - No weather icons
 
 **Personal Goal:**
-- To learn about building rainmeter skins.*
+- To learn about building rainmeter skins
