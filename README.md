@@ -6,7 +6,7 @@
 
 This rainmeter pack is not complete.
 
-![Image Missing](https://raw.githubusercontent.com/futomakiyoin/Fruit-Widget/main/Fruit%20Widget%20Example.png)
+![Demo](Fruit%20Widget%20Example.png)
 
 **Thanks to:**
 
