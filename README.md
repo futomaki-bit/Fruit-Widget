@@ -1,10 +1,10 @@
 # Fruit Widget for Rainmeter #
 
-**A Rainmeter skin for the fruit lovers**
+**A Rainmeter skin for the fruit lovers**\
+This rainmeter pack is not complete.
 
 **[Download Rainmeter](https://www.rainmeter.net/)**
-
-This rainmeter pack is not complete.
+**[Download this skin](https://github.com/futomakiyoin/Fruit-Widget/releases)**
 
 ![Demo](Fruit%20Widget%20Example.png)
 
