@@ -3,8 +3,8 @@
 **A Rainmeter skin for the fruit lovers**\
 This rainmeter pack is not complete.
 
-**[Download Rainmeter](https://www.rainmeter.net/)**
-**[Download this skin](https://github.com/futomakiyoin/Fruit-Widget/releases)**
+**[Download Rainmeter](https://www.rainmeter.net/)**\
+**[Download skin](https://github.com/futomakiyoin/Fruit-Widget/releases)**
 
 ![Demo](Fruit%20Widget%20Example.png)
 
