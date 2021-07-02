@@ -6,7 +6,7 @@ This rainmeter pack is not complete.
 **[Download Rainmeter](https://www.rainmeter.net/)**\
 **[Download skin](https://github.com/futomakiyoin/Fruit-Widget/releases)**
 
-![Demo](Fruit%20Widget%20Example.png)
+![Demo](preview.png)
 
 **Thanks to:**
 
