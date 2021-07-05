@@ -1,2 +1,2 @@
 [Variables]
-Scale=1.2
+Scale=1
